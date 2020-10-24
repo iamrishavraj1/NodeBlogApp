@@ -1,0 +1,23 @@
+body{
+  background-color: cadetblue;
+}
+/* html,
+body {
+    height: 100%;
+    background: #cce5cc;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+
+} */
+
+.row-form{
+    padding: 13%;
+}
